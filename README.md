@@ -1,41 +1,128 @@
-Hi 👋 My name is Mehedi Hasan
-=============================
+<div align="center">
 
-Software Engineer
------------------
+<h1>Md. Mehedi Hasan</h1>
 
-Creative problem solver with a knack for turning complex challenges into beautiful code. ✨ Obsessed with building user-friendly experiences and optimizing performance. Open to new ideas and always up for a challenge. #CodeCraftsman #PerformanceGuru
+<h3>Software Engineer · Full-stack, Mobile &amp; Platform Engineering</h3>
 
-* 🌍  I'm based in Dhaka
-* 🖥️  See my portfolio at [mehedi.bio](http://mehedi-info.vercel.app)
-* ✉️  You can contact me at [mdmehedihasan2360@gmail.com](mailto:mdmehedihasan2360@gmail.com)
-* 🚀  I'm currently working on [Senior places](http://seniorplaces.org)
-* 🧠  I'm learning C, TensorFlow
-* 🤝  I'm open to collaborating on any project
+<p>I build production software across web, mobile, backend, and infrastructure—turning complex product workflows into dependable, maintainable systems.</p>
 
-<a href="https://www.github.com/coder-mehedi-hasan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/coder-mehedi-hasan?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p>
+  <a href="https://mehedihasan.dev"><img src="https://img.shields.io/badge/Portfolio-mehedihasan.dev-0A66C2?style=for-the-badge&amp;logo=safari&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/coder-mehedi-hasan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hi@mehedihasan.dev"><img src="https://img.shields.io/badge/Email-hi%40mehedihasan.dev-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.facebook.com/mehedihasan2360" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/coder-mehedi-hasan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## About me
 
-### Badges
+I’m a software engineer based in Dhaka, Bangladesh, with **4+ years of experience** building production-ready products. I currently work on Graphland products and platforms through Interspeed Digital Solutions. My work spans patient-facing healthcare applications, laboratory and electronic medical record systems, SaaS platforms, real-time services, API integrations, and production delivery infrastructure.
 
-<b>My GitHub Stats</b>
+I’m most effective where product thinking meets engineering depth: clarifying requirements, designing the system, building across the stack, and carrying the result through deployment.
 
-<a href="http://www.github.com/coder-mehedi-hasan"><img src="https://github-readme-stats.vercel.app/api?username=coder-mehedi-hasan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="coder-mehedi-hasan's GitHub stats" /></a>
+- Building full-stack web and mobile products with **React, React Native, Next.js, Node.js, and NestJS**
+- Designing **REST and GraphQL APIs**, data models, asynchronous workflows, and third-party integrations
+- Shipping with **PostgreSQL, MongoDB, Redis, RabbitMQ, Docker, Nginx, AWS, and CI/CD**
+- Experienced in healthcare software, multi-tenant SaaS, real-time applications, and AI-assisted products
 
-<a href="http://www.github.com/coder-mehedi-hasan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-mehedi-hasan&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Highlighted projects
 
-<a href="http://www.github.com/coder-mehedi-hasan"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=coder-mehedi-hasan&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### [StoreOS](https://mehedihasan.dev/projects/storeos) · SaaS commerce platform
 
-<a href="https://github.com/coder-mehedi-hasan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mehedi-hasan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+> **GraphQL · NestJS · MongoDB · Next.js**
+
+Built across the full-stack architecture of a SaaS e-commerce platform that enables businesses to create and manage online stores, products, content, and storefront experiences. My work covered GraphQL APIs, backend services, database design, and web application development.
+
+### [Flame](https://mehedihasan.dev/projects/flame) · AI-powered engagement automation
+
+> **MongoDB · RAG · Vector Search · AI**
+
+Implemented the retrieval and response-generation pipeline for a platform that automates Facebook messages and comments using each business’s knowledge base. The system combines vectorization, semantic retrieval, and RAG to produce context-aware conversations.
+
+### [Rm2.ai](https://mehedihasan.dev/projects/rm2-ai) · Mobile health intelligence
+
+> **React Native · AI · Wearable Data**
+
+Contributed to mobile experiences that turn continuous wearable-device data into health monitoring, alerts, medication and appointment reminders, analytics, and AI-powered guidance between doctor visits.
+
+### [LabQFusion LIS](https://mehedihasan.dev/projects/labqfusion-lis) · Laboratory information system
+
+> **Next.js · Express.js · MySQL · RabbitMQ · AI**
+
+Engineered the web, backend, database, and messaging layers of a laboratory platform for medical-test processing. The system supports automated scanner input and AI-assisted analysis for faster, more accurate diagnostic workflows.
+
+### [Marcopolo](https://mehedihasan.dev/projects/marcopolo) · Hotel operations platform
+
+> **PostgreSQL · GraphQL · NestJS · React**
+
+Contributed to the architecture and full-stack implementation of a hotel management system spanning inventory, HR, accounting, payroll, and operational workflows, with scalable APIs and connected management interfaces.
+
+### [QuantumLeap EMR](https://mehedihasan.dev/projects/quantumleap-emr) · Cross-platform healthcare system
+
+> **React Native · PHP · JavaScript**
+
+Developed mobile and web workflows for lab orders, patient management, and medical-test tracking. The system supports multi-location and multi-organization deployments with role-based access across healthcare operations.
+
+### Open-source engineering
+
+[Gravitee JSON–HL7 Policy](https://github.com/coder-mehedi-hasan/gravitee-policy-json-hl7) is a Java policy plugin for Gravitee API Management that converts healthcare messages between JSON and HL7 formats.
+
+Explore more work and detailed case studies on my [project portfolio](https://mehedihasan.dev/projects).
+
+## Technology toolkit
+
+**Application development**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Data, integration & delivery**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Experience snapshot
+
+- **Software Engineer · Graphland** — working on full-stack web and mobile products through Interspeed Digital Solutions
+- **Software Engineer · Interspeed** — healthcare applications, AI tooling, desktop integrations, messaging systems, and cloud delivery
+- **Frontend Developer · Kotha Apps & Technologies** — responsive product interfaces and real-time chat experiences
+- **Software Developer · BitPixel Software Solutions** — POS, SaaS e-commerce, video calling, booking systems, architecture, and deployment
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=coder-mehedi-hasan&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Mehedi Hasan's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mehedi-hasan&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most-used languages across public repositories" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>Let’s build something useful.</h3>
+
+<p>I’m open to thoughtful engineering conversations, product collaborations, and software opportunities.</p>
+
+<p><a href="mailto:hi@mehedihasan.dev">Email</a> · <a href="https://www.linkedin.com/in/coder-mehedi-hasan/">LinkedIn</a> · <a href="https://mehedihasan.dev">Portfolio</a> · <a href="https://github.com/coder-mehedi-hasan">GitHub</a></p>
+
+</div>
